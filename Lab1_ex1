@@ -1,6 +1,0 @@
-import cv2
-img = cv2.imread("cobra.jpg", cv2.IMREAD_COLOR)
-
-cv2.imshow("cobra.jpg", img)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
